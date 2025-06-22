@@ -1,4 +1,3 @@
-
 import pygame
 
 def draw_game(screen, game_state):
