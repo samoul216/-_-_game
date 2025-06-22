@@ -6,9 +6,6 @@ def handle_events(game_state):
             return False
     return True
 
-
-# --- Enemy Logic ---
-
 import pygame
 import random
 from enemy import Enemy
