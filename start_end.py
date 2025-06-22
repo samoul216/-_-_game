@@ -1,4 +1,3 @@
-
 import pygame
 
 def draw_start_screen(screen):
